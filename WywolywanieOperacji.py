@@ -1,7 +1,6 @@
 #The argparse module’s support for command-line interfaces is built around an instance of argparse.ArgumentParser.
-import WczytywanieDanych
+from wczytywanie import WczytywanieDanych
 import argparse
-import os
 
 
 def parse_arguments():
