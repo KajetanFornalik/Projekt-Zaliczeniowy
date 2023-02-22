@@ -57,6 +57,8 @@ def main():
     print(data_emission)
     WczytywanieDanych.CO2Diff(data_merge)
 
+    print('Thank u for listening to my pep talk')
+
 
 
 
